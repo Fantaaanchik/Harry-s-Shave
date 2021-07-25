@@ -1,0 +1,687 @@
+.page {
+    position: absolute;
+    top: 0;
+    width: 1500px;
+    height: 4100px;
+    font-family:'Trebuchet MS', sans-serif;
+    color: #9F9F9F;
+    background: #F2F1EF;
+}
+.container {
+    width: 1500px;
+    margin: 0 auto;
+}
+
+a { 
+    position: relative;
+    text-decoration: none;
+    left: 2%;
+    text-transform: uppercase;
+}
+
+.planes {
+    color: #0E4E63;
+    font-weight: bold;
+}
+
+h1 {
+    color: #0E4E63;
+    position: relative;
+    display: inline;
+}
+
+.topnav {
+    position: relative;
+    overflow: hidden;
+    padding: 20px;
+    background: #FFFFFF;
+}
+
+.topnav a {
+    color: #8B8B8B;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: rgb(6, 10, 247);
+    color: rgb(255, 255, 255);
+}
+
+.topnav a.planes {
+    color: #0E4E63;
+}
+
+.pravo {
+    position: relative;
+    left: 40%;
+}
+
+.pravoimg {
+    position: relative;
+    left: 59%;
+}
+
+.creams {
+    height: 663px;
+}
+
+.subscribe {
+    background: #EFEFEF;
+    height: 672px;
+}
+.photorepeat {
+    position: relative;
+    height: 666px;
+    width: 221px;
+    top: 0.8%;
+}
+
+p.ad {
+    display: inline;
+    position: relative;
+    top: -70%;
+    text-align: center;
+    left: 70%;
+    text-transform: uppercase;
+    color: #0E4E63;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.shaveplan {
+    display: inline;
+    text-transform: capitalize;
+    position: relative;
+    top: 2%;
+    text-align: center;
+    left: -3%;
+    font-size: 40px;
+    color: #0E4E63;
+}
+
+p {
+    font-size: 16px;
+}
+
+.text {
+    position: relative;
+    top: -68%;
+    left: 24%;
+    line-height: 24px;
+    text-align: center;
+    font-weight: bold;
+}
+
+button {
+    position: relative;
+    left: 66%;
+    top: -63%;
+    width: 250px;
+    height: 55px;
+    color: white;
+    background: tomato;
+    font-size: 18px;
+    text-transform: uppercase;
+    border-radius: 6px;
+
+}
+
+.sentences {
+    position: relative;
+    left: 200px;
+    top: -30px;
+    width: 1100px;
+    height: 300px;
+    background: #FFFFFF;
+    border-radius: 10px;
+}
+
+.textRules1 {
+    position: relative;
+    top: 36.5%;
+    left: -28%;
+    line-height: 24px;
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+}
+.textRules2 {
+    position: relative;
+    top: 6%;
+    left: -0.5%;
+    line-height: 24px;
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+}
+.textRules3 {
+    position: relative;
+    top: -25%;
+    left: 29%;
+    line-height: 24px;
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.rules {
+    font-family: 'Trebuchet MS', sans-serif;
+    display: inline;
+    position: relative;
+    top: -1%;
+    text-align: center;
+    left: -0.5%;
+    font-size: 26px;
+    color: #000000;
+}
+
+h2 {
+    position: relative;
+    font-size: 38px;
+    left: 500px;
+    color: #0E4E63;
+}
+
+.complateOfGoods {
+    position: relative;
+    background: #FFFFFF;
+    width: 430px;
+    height: 580px;
+    left: 310px;
+    border-radius: 15px;
+}
+.complateOfBlades {
+    position: relative;
+    background: #FFFFFF;
+    width: 450px;
+    height: 580px;
+    left: 780px;
+    top: -596px;
+    border-radius: 15px;
+}
+
+.toodayShips {
+    position: relative;
+    color: #0E4E63;
+    font-weight: bold;
+    top: 62px;
+    text-transform: uppercase;
+    font-size: 14px;
+    text-align: center;
+}
+
+.try {
+    position: relative;
+    color: #2E2C40;
+    font-weight: bold;
+    top: 62px;
+    font-size: 24px;
+    text-align: center;
+}
+
+.harry {
+    position: relative;
+    width: 300px;
+    height: 300px;
+    left: 67px;
+    top: 37px;
+}
+
+.prise {
+    position: relative;
+    color: #0E4E63;
+    text-align: center;
+    text-transform: uppercase;
+     font-weight: bold;
+     font-size: 14px;
+}
+
+.textRules4 {
+    position: relative;
+    line-height: 24px;
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+    top: 10px;
+}
+
+.offer {
+    line-height: 24px;
+}
+
+.onGoing {
+    position: relative;
+    color: #0E4E63;
+    font-weight: bold;
+    top: 62px;
+    text-transform: uppercase;
+    font-size: 14px;
+    text-align: center;
+    word-spacing: 3px;
+    letter-spacing: 1px;
+}
+
+.keepSave {
+    position: relative;
+    color: #2E2C40;
+    font-weight: bold;
+    top: 62px;
+    font-size: 24px;
+    text-align: center;
+}
+
+.blades {
+    position: relative;
+    width: 250px;
+    height: 250px;
+    left: 95px;
+    top: 52px;
+}
+
+.toSave {
+    position: relative;
+    color: #0E4E63;
+    font-weight: bold;
+    top: 48px;
+    text-align: center;
+}
+
+span.offer2 {
+    color: rgb(0, 223, 223);
+    line-height: 28px;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+
+.textRules5 {
+    position: relative;
+    line-height: 24px;
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+    top: 55px; 
+}
+
+.Ships {
+    left: 635px;
+    top: -540px;
+}
+
+.engineered {
+    position: relative;
+    top: -700px;
+}
+
+.h2engineer {
+    position: relative;
+    line-height: 50px;
+    top: -300px;
+    display: inline;
+    text-align: center;
+    left: 270px;
+    font-size: 24px;
+    font-weight: bold;
+    color: #0E4E63;
+    font-family:'Trebuchet MS', sans-serif;
+}
+
+.stylesForGives {
+    position: relative;
+    width: 885px;
+    height: 551px;
+    top: 221px;
+}
+
+.stylesForGlaves {
+    position: relative;
+    left: -5px;
+    width: 610px;
+    height: 550px;
+    top: 220px;
+}
+
+ul {
+    position: relative;
+    top: -100px;
+    left: 250px;
+}
+
+.dignity {
+    position: relative;
+    left: 270px;
+    top: -860px;
+    width: 150px;
+    height: 40px;
+    font-size: 12px;
+}
+
+.someDiscount {
+    position: relative;
+    top: -746px;
+    height: 800px;
+    background: #FFFFFF;
+}
+
+.leading {
+    position: relative;
+    top: -120px;
+    color: #646569;
+    text-align: center;
+    font-weight: bold;
+}
+
+.discount1 {
+    position: relative;
+    top: 180px;
+    left: 250px;
+    width: 170px;
+    height: 400px;
+    background: #5F889A;
+    color: #ffffff;
+}
+
+
+.discount2 {
+    position: relative;
+    top: -44px;
+    left: 470px;
+    width: 170px;
+    height: 200px;
+    background: #1D5674;
+    color: #ffffff;
+}
+
+.priceFor1 {
+    position: relative;
+    text-align: center;
+    top: 200px;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.priceOf1 {
+    position: relative;
+    text-align: center;
+    top: 65px;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.CostPerBlade {
+    position: relative;
+    text-transform: uppercase;
+    color: #646569;
+    top: 140px;
+    left: -100px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.hary {
+    position: relative;
+    font-weight: bold;
+    color: #646569;
+    top: -130px;
+    text-align: center;
+}
+
+.OR {
+    position: relative;
+    font-size: 14px;
+}
+
+.quality {
+    position: relative;
+    left: 900px;
+    top: -430px;
+    font-size: 40px;
+}
+
+.addvertisement {
+    position: relative;
+    top: -410px;
+    left: 900px;
+}
+
+.haryWay {
+    position: relative;
+    top: -380px;
+    left: 900px;
+    width: 150px;
+    height: 40px;
+    font-size: 12px;
+}
+
+.factory {
+    position: relative;
+    background: #C5CDD0;
+    height: 800px;
+    top: -745px;
+}
+
+.master {
+    position: relative;
+    width: 800px;
+    height: 800px;
+    margin: 0 0 0 700px;
+}
+
+.made {
+    position: relative;
+    text-align: center;
+    top: -630px;
+    left: 150px;
+}
+
+.someText {
+    position: relative;
+    top: -590px;
+    left: 150px;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 40px;
+}
+
+.factorylink {
+    text-decoration: underline;
+    top: -565px;
+    left: 150px;
+    color: rgb(4, 183, 196);
+}
+
+.looker {
+    position: relative;
+    height: 200px;
+    background: white;
+    top: -761px;
+}
+
+.look {
+    position: relative;
+    color: #646569;
+    font-weight: bold;
+    top: 95px;
+    left: 310px;
+    text-transform: uppercase;
+}
+
+.custom {
+    position: relative;
+    font-weight: bold;
+    top: 48px;
+    left: 660px;
+    line-height: 26px;
+}
+
+.arrow1 {
+    position: relative;
+    top: -8px;
+    left: 850px;
+}
+
+.shop {
+    position: relative;
+    font-weight: bold;
+    top: -67px;
+    left: 1020px;
+    line-height: 26px;
+}
+
+.arrow2 {
+    position: relative;
+    top: -124px;
+    left: 1220px;
+}
+
+.border {
+    position: relative;
+    border-right: 3px solid rgb(141, 141, 141);
+    height: 120px;
+    top: -200px;
+    left: -550px;
+}
+
+.footer {
+    position: relative;
+    height: 280px;
+    top: -770px;
+    background: #E6E6E6;
+    border: 3px solid #ccc;
+}
+
+.rights {
+    position: relative;
+    top: 60px;
+    left: 40px;
+    font-weight: bold;
+}
+
+.trademarks {
+    position: relative;
+    left: 40px;
+    top: 50px;
+    line-height: 28px;
+    font-weight: bold;
+}
+
+.Privacy {
+    position: relative;
+    left: 40px;
+    top: 80px;
+    color: #9F9F9F;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+.terms {
+    position: relative;
+    left: 78px;
+    top: 80px;
+    color: #9F9F9F;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+.view {
+    position: relative;
+    left: 120px;
+    top: 80px;
+    color: #9F9F9F;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+.contact {
+    position: relative;
+    top: -82px;
+    left: 680px;
+    text-transform: uppercase;
+}
+
+.email {
+    position: relative;
+    top: -93px;
+    left: 680px;
+    text-transform: lowercase;
+    color: #9F9F9F;
+}
+
+.tel {
+    position: relative;
+    top: -50px;
+    left: 552px;
+    text-transform: lowercase;
+    color: #9F9F9F;
+}
+
+.facebook {
+    position: relative;
+    top: 4px;
+    left: 445px;
+}
+.twitter {
+    position: relative;
+    top: 4px;
+    left: 450px;
+}
+.instagram {
+    position: relative;
+    top: 4px;
+    left: 455px;
+}
+.google {
+    position: relative;
+    top: 4px;
+    left: 463px;
+}
+
+.hiring {
+    position: relative;
+    top: -169px;
+    left: 950px;
+    text-transform: uppercase;
+}
+
+.jobs {
+    position: relative;
+    top: -165px;
+    left: 950px;
+    color: #9F9F9F;
+}
+
+.appforPhone {
+    position: relative;
+    background: #263645;
+    width: 280px;
+    height: 280px;
+    left: 1216px;
+    top: -296px;
+}
+
+.phone {
+    position: relative;
+    width: 80px;
+    height: 80px;
+    left: 100px;
+    top: 40px;
+}
+
+.Introduction {
+    position: relative;
+    top: 40px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.forMore {
+    position: relative;
+    top: 50px;
+    text-decoration: underline;
+    color: #FFFFFF;
+    left: 90px;
+    border-radius: 20px;
+    line-height: 24px;
+}
